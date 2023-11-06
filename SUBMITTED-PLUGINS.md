@@ -46,6 +46,8 @@
 
 ## Search
 
+- catgoose/telescope-helpgrep.nvim
+
 ## Fuzzy Finder
 
 - echasnovski/mini.fuzzy
